@@ -32,8 +32,20 @@ A leading property search platform in Pakistan connecting buyers, sellers, and r
 ### 🔨 Technologies:
 `Swift`, `UIKit`, `Modular Architecture`, `VIP`, `CocoaPods`, `Firebase`, `App Store Connect`
 
+# [Lamudi](https://apps.apple.com/pk/app/lamudi-buy-rent-properties/id1483420367) & [Lamudi Indonesia](https://apps.apple.com/pk/app/lamudi-indonesia/id1483420392) & [Lamudi Mexico]()
+A global real estate platform with multiple regional variants, including Indonesia, Philippines, and Mexico.
+
+### 🚀 Contributions
+- Played a key role in launching new app variants, including Lamudi Philippines and Lamudi Mexico, tailored to specific market needs.
+- Adopted a modular development approach, significantly reducing code duplication and improving maintainability.
+- Enhanced application functionality and scalability by building reusable modules for seamless integration across multiple app variants.
+- Ensured successful app releases and updates, aligning with the regional requirements and user expectations.
+
+### 🔨 Technologies:
+`Swift`, `UIKit`, `Modular Architecture`, `VIP`, `CocoaPods`, `Firebase`, `App Store Connect`
+
 # [ONLINEdoc](https://apps.apple.com/pk/app/onlinedoc/id1524247859)
-It is a social media/community app for doctors and patients to post, comment, chat, add friends, and share posts with their fellow doctors and patients. You can create groups for specific topics and post.
+It is a social media/community app for doctors and patients to post, comment, chat, add friends, and share posts with their fellow doctors and patients. You can create groups for specific topics and posts.
 
 ### 🚀 Contributions
 - Optimized app performance using XCode's Instruments tool, reducing memory usage and eliminating memory leaks.
