@@ -50,3 +50,32 @@ planning and execution.
 ### 🔨 Technologies:
 `Swift`, `UIKit`, `MVC`, `CocoaPods`, `Xcode Instruments`, `RESTful APIs`, `App Store Connect`
 
+# [Perkss](https://perkss.co.uk) & [Perkss Business](https://play.google.com/store/apps/details?id=com.perkss.business&pcampaignid=web_share)
+A startup transforming businesses with seamless EPOS systems, online ordering, hassle-free bookings, and rewarding loyalty programs. As a Software Engineer, I contributed to the development of iOS and Android apps tailored for Perkss' business clients. I worked on a single codebase to efficiently support multiple app variants, including:
+
+**[Al:Amin](https://apps.apple.com/pk/app/al-amin-cambridge/id1461911958)**: A grocery app offering streamlined shopping experiences.<br/>
+**[Gulf]()**: A petrol station app integrating loyalty cards powered by Perkss.<br/>
+**[Cam Spice Cambridge](https://apps.apple.com/pk/app/cam-spice-cambridge/id1524313016)**: A restaurant app for online ordering and table reservations.<br/>
+**[Ammar Food Store](https://apps.apple.com/pk/app/ammar-food-store/id1509647282)**: An app for managing food store operations and customer interactions.<br/>
+
+### 🚀 Contributions
+- Served as the founding developer for a tech startup, single-handedly developing iOS, Android, and
+backend solutions, resulting in a 100% increase in product offerings within 12 months.
+- Architected and implemented a robust backend infrastructure using C# APIs and Azure cloud services,
+including Web Services, SQL Server DB, SendGrid, Twilio, and Blob Storage, reducing operational
+costs.
+- Designed and optimized SQL database schema using SSMS, hosted on Azure SQL Server DB,
+improving query performance and supporting a user base growth of 2,000+ within the first year.
+- Developed 40+ RESTful APIs using ASP.NET Web APIs with Entity Framework, enabling seamless
+data exchange and reducing API response times.
+- Created an Android business app using Java, integrating NFC technology for a loyalty points system,
+enhancing customer retention.
+- Implemented a flavor-based/variant architecture for the Android and iOS consumer app, facilitating
+easy customization and accelerating feature development.
+- Designed and implemented a cart-based ordering system across both Android and iOS platforms,
+increasing average order value.
+- Successfully navigated the app publication process for both Google Play Store and Apple App Store,
+achieving a combined total of 3,000+ downloads.
+
+### 🔨 Technologies:
+`Swift`, `UIKit`, `MVC`, `Java`, `NFC`, `Azure Cloud Services`, `Web Services`, `SQL Server DB`, `SendGrid`, `Twilio`, `Blob Storage`, `App Store Connect`, `Google Developer Console`
