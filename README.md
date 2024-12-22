@@ -3,7 +3,7 @@
  
 ### 👋 Hello! I am a software engineer with 5+ years of experience in mobile development, focused on iOS expertise, and early career experience in Android and backend development (C#, Azure, SSMS). Expert in Swift with a proven track record of improving app performance. Passionate about continuous learning and technical growth, currently expanding cross-platform skills with Flutter.
 
-# [Bayut](https://apps.apple.com/us/app/clockology/id1456386228)
+# [Bayut - UAE Property Search](https://apps.apple.com/pk/app/bayut-uae-property-search/id923263211)
 Bayut is the leading property-based product in the UAE connecting buyers, investors, landlords, sellers, tenants, and brokers to facilitate various real estate requirements in a seamless, user-friendly manner.
 
 ### 🚀 Contributions
@@ -30,3 +30,23 @@ guidelines and facilitating a streamlined approval process.
 
 ### 🔨 Technologies:
 `Swift`, `SwiftUI`, `UIKit`, `Core Data`, `Modular Architecture`, `VIP`, `CocoaPods`, `Firebase`, `Feature Flag`, `A/B Testing`, `App Store Connect`
+
+# [ONLINEdoc](https://apps.apple.com/pk/app/onlinedoc/id1524247859)
+It is a social media/community app for doctors and patients to post, comment, chat, add friends, and share posts with their fellow doctors and patients. You can create groups for specific topics and post.
+
+### 🚀 Contributions
+- Optimized app performance using XCode's Instruments tool, reducing memory usage and eliminating
+memory leaks.
+- Analyzed and validated client requirements, wireframes, and designs for technical feasibility, ensuring
+seamless project alignment.
+- Implemented dark and light themes using protocols, enhancing user experience and accessibility while
+improving visual appeal.
+- Achieved 99% crash-free users by identifying and resolving memory leak issues, optimizing app
+performance, and ensuring a stable and reliable user experience across all devices.
+- Collaborated with the scrum team to translate client requirements into user stories, streamlining sprint
+planning and execution.
+- Handled app submissions to the App Store Connect, achieving a smooth approval process.
+
+### 🔨 Technologies:
+`Swift`, `UIKit`, `MVC`, `CocoaPods`, `Xcode Instruments`, `RESTful APIs`, `App Store Connect`
+
