@@ -32,7 +32,7 @@ A leading property search platform in Pakistan connecting buyers, sellers, and r
 ### 🔨 Technologies:
 `Swift`, `UIKit`, `Modular Architecture`, `VIP`, `CocoaPods`, `Firebase`, `App Store Connect`
 
-# [Lamudi](https://apps.apple.com/pk/app/lamudi-buy-rent-properties/id1483420367) & [Lamudi Indonesia](https://apps.apple.com/pk/app/lamudi-indonesia/id1483420392) & [Lamudi Mexico]()
+# [Lamudi](https://apps.apple.com/pk/app/lamudi-buy-rent-properties/id1483420367), [Lamudi Indonesia](https://apps.apple.com/pk/app/lamudi-indonesia/id1483420392) & [Lamudi Mexico]()
 A global real estate platform with multiple regional variants, including Indonesia, Philippines, and Mexico.
 
 ### 🚀 Contributions
