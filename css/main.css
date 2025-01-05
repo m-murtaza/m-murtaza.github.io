@@ -654,7 +654,7 @@ input[type="button"] {
 	display: inline-block;
 	font-family: "poppins-bold", sans-serif;
 	font-size: 1.4rem;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	letter-spacing: .3rem;
 	height: 5.4rem;
 	line-height: 5.4rem;
@@ -1346,7 +1346,7 @@ header .logo a {
 	font-size: 2.3rem;
 	line-height: 1.565;
 	margin-bottom: 0;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	letter-spacing: .3rem;
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 }
@@ -1354,7 +1354,7 @@ header .logo a {
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
 	line-height: 2.4rem;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	letter-spacing: .2rem;
 	color: #FFFFFF;
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
@@ -1384,7 +1384,7 @@ header .logo a {
 	padding: 0 3.5rem 0 3rem !important;
 	margin-top: .6rem;
 	font-size: 1.3rem;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	letter-spacing: .25rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
@@ -1853,7 +1853,7 @@ header .logo a {
 #portfolio .folio-types {
 	margin: 0;
 	padding: 0;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.2rem;
 	letter-spacing: .1rem;
